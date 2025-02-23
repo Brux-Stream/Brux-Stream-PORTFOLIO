@@ -31,13 +31,22 @@
 
 
 - <b>BRUSSELS</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=m_PUM05gX_L9ql9G&amp;controls=0&amp;start=320" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=6rYnH1N06ifF8XMu&amp;controls=0&amp;start=320" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - <b>DEN HAAG - ICJ</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/64ikfIbGwfg?si=jXCj_gPRh8tozDaF&amp;controls=0&amp;start=157" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - <b>GENEVA</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tSJjb3NIrl8?si=Q3AG46VB3FbHByTh&amp;controls=0&amp;start=22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>< br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSJjb3NIrl8?si=Q3AG46VB3FbHByTh&amp;controls=0&amp;start=22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<br>
+<iframe id="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/64ikfIbGwfg?si=jXCj_gPRh8tozDaF&amp;controls=0&amp;start=157" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<script>
+  function updateVideoTime(time) {
+    const video = document.getElementById('youtube-video');
+    video.src = `https://www.youtube.com/embed/64ikfIbGwfg?si=jXCj_gPRh8tozDaF&controls=0&start=${time}`;
+  }
+</script>
 
 <h2> 🤳 Connect with me:</h2>
 
