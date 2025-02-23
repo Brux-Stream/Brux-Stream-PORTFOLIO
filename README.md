@@ -7,12 +7,9 @@
 - <b>Cloud SRT output stream</b>
 - <b>No hardware or licence needed on receiver side</b>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=xp5Xdvyye2jiurAW&amp;start=145" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[](https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=xp5Xdvyye2jiurAW&amp;start=145)
 
-
-![](https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=xp5Xdvyye2jiurAW&amp;start=145)
-
-![](https://youtu.be/ReVeUvwTGdU?t=280)
+[](https://youtu.be/ReVeUvwTGdU?t=280)
 
 
 
