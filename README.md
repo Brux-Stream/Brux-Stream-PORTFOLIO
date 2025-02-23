@@ -1,4 +1,4 @@
-<a href="https://github.com/joshmadakor1">Camera - </a>
+</h1><a href="https://github.com/joshmadakor1">Camera - </a>
 <a href="https://www.linkedin.com/in/joshmadakor/">Editing - </a>
 <a href="https://www.youtube.com/c/joshmadakor">LIVE</a></h1>
 
