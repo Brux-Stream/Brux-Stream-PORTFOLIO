@@ -7,11 +7,7 @@
 - <b>Cloud SRT output stream</b>
 - <b>No hardware or licence needed on receiver side</b>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=9P_TzXUz_eACGjM2&amp;controls=0&amp;start=320" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>🎥 CAMERA:</h2>
 
@@ -28,25 +24,16 @@
 
 <h2>📌 HISTORY</h2>
 
+- <b>BRUSSELS</b>
 
+- <b>DEN HAAG - ICJ<
+- <b>DEN HAAG - ICTY<
+<br>
+<br>
 
 - <b>BRUSSELS</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=6rYnH1N06ifF8XMu&amp;controls=0&amp;start=320" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- <b>DEN HAAG - ICJ</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/64ikfIbGwfg?si=jXCj_gPRh8tozDaF&amp;controls=0&amp;start=157" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - <b>GENEVA</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tSJjb3NIrl8?si=Q3AG46VB3FbHByTh&amp;controls=0&amp;start=22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
-<br>
-<iframe id="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/64ikfIbGwfg?si=jXCj_gPRh8tozDaF&amp;controls=0&amp;start=157" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<script>
-  function updateVideoTime(time) {
-    const video = document.getElementById('youtube-video');
-    video.src = `https://www.youtube.com/embed/64ikfIbGwfg?si=jXCj_gPRh8tozDaF&controls=0&start=${time}`;
-  }
-</script>
 
 <h2> 🤳 Connect with me:</h2>
 
