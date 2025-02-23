@@ -8,6 +8,7 @@
 - <b>No hardware or licence needed on receiver side</b>
 
 ![Alt text](docs/assets/img_LIVE_Brussels.png)
+Watch on [YouTube](https://youtu.be/Sh-Ph9UGPkQ?si=fGl9ljxeo9nmeVBb)  (broadcasted LIVE)
 <br>
 
 <h2>🎥 Gear:</h2>
