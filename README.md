@@ -18,9 +18,12 @@
 - <b>Tripods</b>
 - <b>Gimbal</b>
 
+![Alt text](docs/assets/img_Gear.jpg)
+<br>
+
 <h2>💻 EDITING:</h2>
 
-- <b>HD Video (Expert)</b>
+- <b>On location</b>
 
 <h2>📌 HISTORY</h2>
 
@@ -29,10 +32,8 @@
 - <b>DEN HAAG - ICJ<
 - <b>DEN HAAG - ICTY<
 <br>
-<br>
 
 - <b>BRUSSELS</b>
-
 - <b>GENEVA</b>
 
 <h2> 🤳 Connect with me:</h2>
