@@ -1,6 +1,19 @@
-<h1><a href="https://github.com/joshmadakor1">Camera - </a>
-<a href="https://www.linkedin.com/in/joshmadakor/">Editing - </a>
-<a href="https://www.youtube.com/c/joshmadakor">LIVE</a></h1>
+<h1><a href="https://github.com/joshmadakor1">LIVE VIDEO STREAMING SOLUTION </a></h1>
+
+<h2>📺 LIVE Streaming</h2>
+
+- <b>HD/4K Video streaming</b>
+- <b>Network bonding exploiting ALL internet sources</b>
+- <b>Cloud SRT output stream</b>
+- <b>No hardware or licence needed on receiver side</b>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uTuw6p-xsZQ?si=pYbQLWYY35kpp8QH&amp;start=41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>🎥 CAMERA:</h2>
 
@@ -16,13 +29,7 @@
 - <b>HD Video (Expert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 LIVE Streaming</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
