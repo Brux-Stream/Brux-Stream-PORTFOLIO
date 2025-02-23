@@ -6,7 +6,8 @@
 - <b>Network bonding exploiting ALL internet sources</b>
 - <b>Cloud SRT output stream</b>
 - <b>No hardware or licence needed on receiver side</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=1STlVr8SMxpN0cKk&amp;controls=0&amp;start=145" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sh-Ph9UGPkQ?si=eJ1vkgs9lAp_7lsR&amp;start=153" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
 
 <h2>🎥 CAMERA:</h2>
 
