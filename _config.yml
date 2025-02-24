@@ -2,4 +2,4 @@ title: Brux Stream
 logo: docs/assets/img_Logo_Round.jpg
 description: Camera | Editing | LIVE streaming
 #show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-jekflix
