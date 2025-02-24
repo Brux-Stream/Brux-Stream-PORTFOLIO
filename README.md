@@ -47,7 +47,9 @@ Watch on [YouTube](https://youtu.be/tSJjb3NIrl8?si=Lf7iJiw12YCu3jm2)  (broadcast
 - <b>LONDON</b>
 ![Alt text](docs/assets/img_LIVE_London.jpg)
 Watch on [YouTube](https://youtu.be/u0NS8oheQzk?si=3Obj05R27p4ZQD1f)  (broadcasted LIVE)
-
+- <b>HELSINKI</b>
+![Alt text](docs/assets/img_LIVE_Helsinki.jpg)
+Watch on [YouTube](https://youtu.be/Kn2N1AbHecE?si=07vkaDSirocsxB-7)  (broadcasted LIVE)
 
 <h2> 🤳 Connect with me:</h2>
 
