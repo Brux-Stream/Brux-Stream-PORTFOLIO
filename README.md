@@ -36,7 +36,7 @@ Watch on [YouTube](https://youtu.be/obw3CY4e0yI?si=teJ5uBVpPxCFyXq0)  (broadcast
 - <b>DEN HAAG - ICTY</b>
 
 - <b>NEDTHERLAND - Elections</b>
-![Alt text](docs/assets/img_LIVE_NATO.jpg)
+![Alt text](docs/assets/img_LIVE_Elections.jpg)
 Watch on [YouTube](https://youtu.be/CdtyEMs3Juc?si=qLzRmtcvPvjfQN9R)  (broadcasted LIVE)
 - <b>GENEVA</b>
 
