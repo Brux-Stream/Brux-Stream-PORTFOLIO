@@ -29,12 +29,15 @@ Watch on [YouTube](https://youtu.be/Sh-Ph9UGPkQ?si=fGl9ljxeo9nmeVBb)  (broadcast
 
 - <b>BRUSSELS</b>
 - <b>BRUSSELS - NATO</b> 
-![Alt text](docs/assets/img_Gear_Council.jpg)
+![Alt text](docs/assets/img_LIVE_NATO.jpg)
+Watch on [YouTube](https://youtu.be/obw3CY4e0yI?si=teJ5uBVpPxCFyXq0)  (broadcasted LIVE)
+
 - <b>DEN HAAG - ICJ</b>
 - <b>DEN HAAG - ICTY</b>
-<br>
 
-- <b>BRUSSELS</b>
+- <b>NEDTHERLAND - Elections</b>
+![Alt text](docs/assets/img_LIVE_NATO.jpg)
+Watch on [YouTube](https://youtu.be/CdtyEMs3Juc?si=qLzRmtcvPvjfQN9R)  (broadcasted LIVE)
 - <b>GENEVA</b>
 
 <h2> 🤳 Connect with me:</h2>
