@@ -63,6 +63,8 @@ Watch on [YouTube](https://youtu.be/u0NS8oheQzk?si=3Obj05R27p4ZQD1f)  (broadcast
 ![Alt text](docs/assets/img_LIVE_Helsinki.jpg)
 Watch on [YouTube](https://youtu.be/Kn2N1AbHecE?si=07vkaDSirocsxB-7)  (broadcasted LIVE)
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKp9hogroZVXmQ1FF8vVnp189Lmyx1UFfBUSKh8aZqKZPf_w/viewform?embedded=true" width="640" height="216" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
