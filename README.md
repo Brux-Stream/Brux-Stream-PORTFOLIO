@@ -31,7 +31,6 @@ Watch on [YouTube](https://youtu.be/Sh-Ph9UGPkQ?si=fGl9ljxeo9nmeVBb)  (broadcast
 - <b>BRUSSELS - NATO</b> 
 ![Alt text](docs/assets/img_LIVE_NATO.jpg)
 Watch on [YouTube](https://youtu.be/obw3CY4e0yI?si=teJ5uBVpPxCFyXq0)  (broadcasted LIVE)
-
 - <b>DEN HAAG - ICJ</b>
 ![Alt text](docs/assets/img_LIVE_dgICJ.jpg)
 Watch on [YouTube](https://youtu.be/64ikfIbGwfg?si=VnXjn6_ZoqBRam56)  (broadcasted LIVE)
