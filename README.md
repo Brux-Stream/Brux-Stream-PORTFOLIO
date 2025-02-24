@@ -52,6 +52,8 @@ Watch on [YouTube](https://youtu.be/CdtyEMs3Juc?si=qLzRmtcvPvjfQN9R)  (broadcast
 Watch on [YouTube](https://youtu.be/tSJjb3NIrl8?si=Lf7iJiw12YCu3jm2)  (broadcasted LIVE)
 
 - <b>PARIS</b>
+![Alt text](docs/assets/img_LIVE_Paris.jpg)
+Watch on [YouTube](https://youtu.be/XsW89voWHKw?si=PBs6hKPhysdyA61K)  (broadcasted LIVE)
 
 - <b>LONDON</b>
 ![Alt text](docs/assets/img_LIVE_London.jpg)
