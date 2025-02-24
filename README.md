@@ -35,12 +35,16 @@ Watch on [YouTube](https://youtu.be/obw3CY4e0yI?si=teJ5uBVpPxCFyXq0)  (broadcast
 - <b>DEN HAAG - ICJ</b>
 - <b>DEN HAAG - ICTY</b>
 
-- <b>NEDTHERLAND - Elections</b>
+- <b>NETHERLANDS - Elections</b>
 ![Alt text](docs/assets/img_LIVE_Elections.jpg)
 Watch on [YouTube](https://youtu.be/CdtyEMs3Juc?si=qLzRmtcvPvjfQN9R)  (broadcasted LIVE)
 - <b>GENEVA</b>
 ![Alt text](docs/assets/img_LIVE_Geneve.jpg)
 Watch on [YouTube](https://youtu.be/tSJjb3NIrl8?si=Lf7iJiw12YCu3jm2)  (broadcasted LIVE)
+- <b>LONDON</b>
+![Alt text](docs/assets/img_LIVE_London.jpg)
+Watch on [YouTube](https://youtu.be/u0NS8oheQzk?si=3Obj05R27p4ZQD1f)  (broadcasted LIVE)
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -68,3 +72,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<br>
