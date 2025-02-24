@@ -40,6 +40,8 @@ Watch on [YouTube](https://youtu.be/obw3CY4e0yI?si=teJ5uBVpPxCFyXq0)  (broadcast
 Watch on [YouTube](https://youtu.be/64ikfIbGwfg?si=VnXjn6_ZoqBRam56)  (broadcasted LIVE)
 
 - <b>DEN HAAG - ICTY</b>
+![Alt text](docs/assets/img_LIVE_dhICTY.jpg)
+Watch on [YouTube](https://youtu.be/zYz-J1lPFPk?si=GLANoK9G3SMoFWzq)  (broadcasted LIVE)
 
 - <b>NETHERLANDS - Elections</b>
 ![Alt text](docs/assets/img_LIVE_Elections.jpg)
