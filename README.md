@@ -10,6 +10,7 @@
 ![Alt text](docs/assets/img_LIVE_Brussels.jpg)
 Watch on [YouTube](https://youtu.be/Sh-Ph9UGPkQ?si=fGl9ljxeo9nmeVBb)  (broadcasted LIVE)
 <br>
+<br>
 
 <h2>🎥 Gear:</h2>
 
@@ -18,20 +19,19 @@ Watch on [YouTube](https://youtu.be/Sh-Ph9UGPkQ?si=fGl9ljxeo9nmeVBb)  (broadcast
 - <b>Lights</b>
 - <b>Tripods</b>
 - <b>Gimbal</b>
+- <b>Editing laptop</b>
 
-![Alt text](docs/assets/img_Gear.jpg)
+![Alt text](docs/assets/img_Gear_Council.jpg)
 <br>
-
-<h2>💻 EDITING:</h2>
-
-- <b>On location</b>
+<br>
 
 <h2>📌 HISTORY</h2>
 
 - <b>BRUSSELS</b>
-
-- <b>DEN HAAG - ICJ<
-- <b>DEN HAAG - ICTY<
+- <b>BRUSSELS - NATO</b> 
+![Alt text](docs/assets/img_Gear_Council.jpg)
+- <b>DEN HAAG - ICJ</b>
+- <b>DEN HAAG - ICTY</b>
 <br>
 
 - <b>BRUSSELS</b>
