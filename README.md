@@ -28,6 +28,9 @@ Watch on [YouTube](https://youtu.be/Sh-Ph9UGPkQ?si=fGl9ljxeo9nmeVBb)  (broadcast
 <h2>📌 HISTORY</h2>
 
 - <b>BRUSSELS</b>
+![Alt text](docs/assets/img_LIVE_Council.jpg)
+Watch on [YouTube](https://youtu.be/4uD4bHKh198?si=_me-Jo55I0DaQ2L9)  (broadcasted LIVE)
+
 - <b>BRUSSELS - NATO</b> 
 ![Alt text](docs/assets/img_LIVE_NATO.jpg)
 Watch on [YouTube](https://youtu.be/obw3CY4e0yI?si=teJ5uBVpPxCFyXq0)  (broadcasted LIVE)
@@ -41,12 +44,15 @@ Watch on [YouTube](https://youtu.be/64ikfIbGwfg?si=VnXjn6_ZoqBRam56)  (broadcast
 - <b>NETHERLANDS - Elections</b>
 ![Alt text](docs/assets/img_LIVE_Elections.jpg)
 Watch on [YouTube](https://youtu.be/CdtyEMs3Juc?si=qLzRmtcvPvjfQN9R)  (broadcasted LIVE)
+
 - <b>GENEVA</b>
 ![Alt text](docs/assets/img_LIVE_Geneve.jpg)
 Watch on [YouTube](https://youtu.be/tSJjb3NIrl8?si=Lf7iJiw12YCu3jm2)  (broadcasted LIVE)
+
 - <b>LONDON</b>
 ![Alt text](docs/assets/img_LIVE_London.jpg)
 Watch on [YouTube](https://youtu.be/u0NS8oheQzk?si=3Obj05R27p4ZQD1f)  (broadcasted LIVE)
+
 - <b>HELSINKI</b>
 ![Alt text](docs/assets/img_LIVE_Helsinki.jpg)
 Watch on [YouTube](https://youtu.be/Kn2N1AbHecE?si=07vkaDSirocsxB-7)  (broadcasted LIVE)
