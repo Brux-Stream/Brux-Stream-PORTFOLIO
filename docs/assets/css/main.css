@@ -3068,33 +3068,3 @@ input, select, textarea {
 			}
 
 	}
-
-
-#footer-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#footer {
-  text-align: center;
-}
-
-.row {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.col-6 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.divided.icons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
