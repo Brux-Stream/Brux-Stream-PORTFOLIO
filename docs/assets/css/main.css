@@ -2096,11 +2096,11 @@ input, select, textarea {
 		position: relative;
 		padding: 4em 0 2em 0;
 		background-image: url("images/header.svg");
-		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #7088ff 15%, #9daff2 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #7088ff 15%, #9daff2 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #7088ff 15%, #9daff2 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #7088ff 15%, #9daff2 55%);
-		background-color: #7088ff;
+		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #21284c 15%, #636881 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #21284c 15%, #636881 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #21284c 15%, #636881 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #21284c 15%, #636881 55%);
+		background-color: #21284c;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 		background-repeat: repeat, no-repeat, no-repeat;
