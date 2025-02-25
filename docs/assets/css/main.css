@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #d0d1d9;
+		background: #f5f7fa;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 		color: #52575c;
@@ -2100,7 +2100,7 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #21284c 15%, #636881 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #21284c 15%, #636881 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #21284c 15%, #636881 55%);
-		background-color: #21284c;
+		background-color: #f08c89;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 		background-repeat: repeat, no-repeat, no-repeat;
