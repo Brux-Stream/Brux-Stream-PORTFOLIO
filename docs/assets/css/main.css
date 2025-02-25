@@ -2065,7 +2065,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
-		background: #d0d1d9;
+		background: #fff;
 		overflow-x: hidden;
 		padding: 6em 0 6em 0;
 	}
@@ -2277,7 +2277,7 @@ input, select, textarea {
 
 	#hero {
 		position: relative;
-		color: #d0d1d9;
+		color: #fff;
 		text-align: center;
 		z-index: 1;
 	}
