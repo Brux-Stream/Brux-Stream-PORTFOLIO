@@ -2123,7 +2123,7 @@ input, select, textarea {
 
 	#promo2-wrapper {
 		position: relative;
-		background-image: url("images/overlay.png"), url("images/promo3.jpg");
+		background-image: url("images/overlay.png"), url("images/promo3P.png");
 		background-size: 192px 192px, cover;
 		background-position: top left, center center;
 		color: #fff;
