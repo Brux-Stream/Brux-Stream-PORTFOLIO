@@ -2107,7 +2107,7 @@ input, select, textarea {
 	}
 
 	.homepage #header-wrapper {
-		padding: 10em 0 3em 0;
+		padding: 10em 0 6em 0;
 		background-size: 128px 128px, 100% 100%, auto;
 	}
 
@@ -2125,7 +2125,7 @@ input, select, textarea {
 		-webkit-transform: translate3d(0, 0, 0);
 		position: relative;
 		border-top: solid 1px #c2c7cc;
-		padding: 6em 0 6em 0;
+		padding: 2em 0 2em 0;
 		background-image: url("images/overlay.png"), url("images/footer.svg");
 		background-size: 128px 128px,				100% 100%;
 	}
